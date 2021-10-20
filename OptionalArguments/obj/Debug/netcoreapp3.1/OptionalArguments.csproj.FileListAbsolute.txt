@@ -1,0 +1,13 @@
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.exe
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.deps.json
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.runtimeconfig.json
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.runtimeconfig.dev.json
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.dll
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\bin\Debug\netcoreapp3.1\OptionalArguments.pdb
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.csprojAssemblyReference.cache
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.AssemblyInfoInputs.cache
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.AssemblyInfo.cs
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.dll
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.pdb
+C:\SRC\CSharp\OptionalArguments\OptionalArguments\obj\Debug\netcoreapp3.1\OptionalArguments.genruntimeconfig.cache
